@@ -150,7 +150,7 @@ const renderButton=()=> {
         <h1 className={styles.title}>Welcome to Crypto Devs!</h1>
 
         <div className={styles.description}>
-          It's an NFT collection for developers in crypto
+          It is an NFT collection for developers in crypto
         </div>
         <div className={styles.description}>
 
